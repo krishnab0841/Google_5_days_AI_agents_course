@@ -1,8 +1,5 @@
 # Google 5 Days AI Agents Course — Summary
 
-**Repository:** `krishnab0841/Google_5_days_AI_agents_course`  
-**Source:** https://github.com/krishnab0841/Google_5_days_AI_agents_course
-
 ## About
 This repository contains Jupyter notebooks for a 5-day course on AI agents. The notebooks appear to be day-wise lessons covering prompts, agent architectures, tools, memory, observability, evaluation, inter-agent communication, and deployment.
 
